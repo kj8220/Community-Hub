@@ -5,23 +5,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/Spring-Boot-Framework/Community-Hub)](https://github.com/Spring-Boot-Framework/Community-Hub/network)
 [![GitHub stars](https://img.shields.io/github/stars/Spring-Boot-Framework/Community-Hub)](https://github.com/Spring-Boot-Framework/Community-Hub/stargazers)
 
-<p align="center">
-	<a alt="GitHub last commit">
-        <img src="https://img.shields.io/github/last-commit/Spring-Boot-Framework/Community-Hub" />
-    </a>
-	<a alt="License">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
-    </a>
-	<a alt="GitHub language count">
-        <img src="https://img.shields.io/github/languages/count/Spring-Boot-Framework/Community-Hub" />
-    </a>
-	<a alt="GitHub code size in bytes">
-        <img src="https://img.shields.io/github/languages/code-size/Spring-Boot-Framework/Community-Hub" />
-    </a>
-	<a alt="GitHub top language">
-        <img src="https://img.shields.io/github/languages/top/Spring-Boot-Framework/Community-Hub.svg" />
-    </a>
-</p>
 
 Backend inspired by the popular social media platform [reddit](https://www.reddit.com/)
 
