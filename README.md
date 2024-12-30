@@ -1,10 +1,5 @@
 # Community Hub
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSpring-Boot-Framework%2FCommunity-Hub.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSpring-Boot-Framework%2FCommunity-Hub?ref=badge_shield)
-[![GitHub issues](https://img.shields.io/github/issues/Spring-Boot-Framework/Community-Hub)](https://github.com/Spring-Boot-Framework/Community-Hub/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Spring-Boot-Framework/Community-Hub)](https://github.com/Spring-Boot-Framework/Community-Hub/network)
-[![GitHub stars](https://img.shields.io/github/stars/Spring-Boot-Framework/Community-Hub)](https://github.com/Spring-Boot-Framework/Community-Hub/stargazers)
-
 
 Backend inspired by the popular social media platform [reddit](https://www.reddit.com/)
 
