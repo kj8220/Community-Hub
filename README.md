@@ -40,14 +40,6 @@ Backend inspired by the popular social media platform [reddit](https://www.reddi
 
 * 	[git](https://git-scm.com/) - Free and Open-Source distributed version control system
 
-### External Tools & Services
-
-* 	[gitignore.io](https://www.toptal.com/developers/gitignore/api/java,eclipse,intellij) - Create useful .gitignore files for your project.
-*	[Dependabot](https://dependabot.com/) - Automated dependency updates.
-* 	[Postman](https://www.getpostman.com/) - API Development Environment (Testing Docmentation)
-*	[Mailtrap](https://mailtrap.io/) - Safe Email Testing for Staging & Development.
-*   [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct.
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on
@@ -202,23 +194,6 @@ To shutdown the jar, follow the below mentioned steps on a Windows machine.
 ```shell
 $ mvn test       //Run all the unit test classes.
 ```
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### And coding style tests
-
-Explain what these tests test and why
-
-    Give an example
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 
 ## Versioning
 
