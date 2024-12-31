@@ -96,7 +96,7 @@ keytool -genkey -alias redditclone -keyalg RSA -keystore redditclone.jks -keysiz
 
 ### Running the application with IDE
 
-There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `io.github.anantharajuc.rc.RedditCloneApplication` class from your IDE.
+There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `io.github.roopan.rc.CommunityHubApplication` class from your IDE.
 
 * 	Download the zip or clone the Git repository.
 * 	Unzip the zip file (if you downloaded one)
